@@ -1,8 +1,14 @@
 # 👋 Hi, I’m Shawn
 
 ## 🚀 About Me
-I like to create things, work-out, read, ski, sleep well,and connect with people.
+I like to create new things.
+
+## 🎉 Hobbies
+- Learning
+- Lifting
+- Skiing
+- Reading
+- Running
+- Connecting with people
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sprice&show_icons=true&theme=radical)
