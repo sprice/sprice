@@ -9,6 +9,6 @@ I like to create new things.
 - Coding
 - Skiing
 - Reading
-- Bulding
+- Building
 - Running
 - Connecting
