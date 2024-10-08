@@ -3,12 +3,12 @@
 ## 🚀 About Me
 I like to create new things.
 
-## 🎉 Hobbies
+## 🎉 Fun Things I Do
 - Learning
 - Lifting
+- Coding
 - Skiing
 - Reading
+- Bulding
 - Running
-- Connecting with people
-
----
+- Connecting
